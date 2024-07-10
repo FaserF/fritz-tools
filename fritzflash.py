@@ -579,7 +579,7 @@ def determine_image_name(env_string):
         "209": {
             "openwrt": ["openwrt-lantiq-xrx200-avm_fritz7412-initramfs-kernel.bin"]
         },
-        "213": {
+        "212": {
             "openwrt": ["openwrt-lantiq-xrx200-avm_fritz3490-initramfs-kernel.bin"]
         },
         "218": {
